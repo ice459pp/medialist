@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaList</string>
+    <string name="media_transition">media_transition</string>
+    <string name="title_media_list">圖庫</string>
+    <string name="title_permission_ask_for">要求存取照片與影片的權限</string>
+    <string name="title_complete">完成</string>
+</resources>
