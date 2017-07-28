@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <style name="AppTheme.Fullscreen" parent="Theme.AppCompat.Light.DialogWhenLarge">
         <item name="android:windowAnimationStyle">@style/Animation.Design.BottomSheetDialog</item>
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowContentOverlay">@null</item>
-    </style>
-
-    <style name="Facebook.Button.Feed" parent="android:Widget">
-        <item name="android:gravity">center</item>
-        <item name="android:clickable">true</item>
-        <item name="android:background">?attr/selectableItemBackground</item>
-        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Caption</item>
     </style>
 
     <style name="AppTheme.Fullscreen.Player" parent="AppTheme.Fullscreen">
